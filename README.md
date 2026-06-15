@@ -8,24 +8,26 @@ I got tired of cognitive debt: moving fast with AI, but ending up with work I co
 
 These repos are my attempt to fix that.
 
-## Core wedge
+**Core wedge**
 
 Better specs, not bigger specs.
 Plan Mode prevents premature edits. These workflows prevent premature agreement.
 
-## Start here
+**Start here**
 
-### [ai-engineering-skills](https://github.com/tmusser/ai-engineering-skills)
+**[ai-engineering-skills](https://github.com/tmusser/ai-engineering-skills)**
 
 Portable skills for Claude Code, Codex, and coding agents. Use it when AI coding sessions drift, overbuild, lose context, or skip verification.
 
-### [ai-business-skills](https://github.com/tmusser/ai-business-skills)
+**[ai-business-skills](https://github.com/tmusser/ai-business-skills)**
 
 Skills for turning messy Slack, email, meeting, and document context into clear asks, decisions, owners, updates, and follow-ups.
 
-### [chart-contract](https://github.com/tmusser/chart-contract)
+**[chart-contract](https://github.com/tmusser/chart-contract)**
 
 A Python library for claim-first analytical charts with audit trails, caveats, and provenance. Use it when AI-generated charts look polished but may be analytically weak.
+
+<br clear="right">
 
 ## The pattern
 
