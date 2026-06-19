@@ -36,9 +36,9 @@ Reduce messy context. Clarify the claim. Bound the work. Verify the result. Leav
 
 ## Current focus
 
-Improving adoption paths and proof examples for the AI workflow repos.
-Sharpening `context-to-action-skills` around epistemic distillation: facts, uncertainty, claims, and next actions.
-Building `chart-contract` as a concrete proof artifact for analytical integrity.
+* Improving adoption paths and proof examples for the AI workflow repos.
+* Sharpening `context-to-action-skills` around epistemic distillation: facts, uncertainty, claims, and next actions.
+* Building `chart-contract` as a concrete proof artifact for analytical integrity.
 
 ## Repo map
 
